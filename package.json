@@ -1,4 +1,5 @@
 {
+  "name": "graphql.github.io",
   "repository": "graphql/graphql.github.io",
   "private": true,
   "version": "0.0.0",
